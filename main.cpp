@@ -1,7 +1,11 @@
-#include <cstdio>
+#include <iostream>
+
+using std::cout;
+using std::cin;
+using std::endl;
 
 int main()
 {
-    printf("hello from TestGitRepository!\n");
+	cout << "hello from TestGitRepository!\n" << endl;
     return 0;
 }

@@ -6,6 +6,6 @@ using std::endl;
 
 int main()
 {
-	cout << "hello from TestGitRepository! 34\n" << endl;
+	cout << "hello from TestGitRepository! 56\n" << endl;
     return 0;
 }
